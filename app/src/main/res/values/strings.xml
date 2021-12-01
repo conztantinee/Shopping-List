@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="Details">Details</string>
+    <string name="dialogTitle">New Item</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Book</item>
+    </string-array>
+</resources>
